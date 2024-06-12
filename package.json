@@ -36,11 +36,9 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "debounce": "^2.1.0",
     "grammy": "^1.24.1",
     "tslib": "~2.6",
     "viem": "^2.13.8"
-  },
-  "volta": {
-    "node": "20.12.2"
   }
 }
